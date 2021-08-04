@@ -1,12 +1,25 @@
 {
   "name": "kap-supabase",
   "version": "1.0.0",
-  "description": "",
+  "description": "Share on Supabase",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC"
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ronsj/kap-supabase.git"
+  },
+  "keywords": [
+    "kap-plugin",
+    "supabase",
+    "gif",
+    "mp4",
+    "webm",
+    "apng",
+    "upload",
+    "share"
+  ],
+  "author": "Ron San Jose <ronsj1@gmail.com>",
+  "license": "MIT"
 }
