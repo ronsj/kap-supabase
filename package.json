@@ -29,5 +29,8 @@
   "devDependencies": {
     "kap-plugin-test": "^0.5.0",
     "prettier": "^2.3.2"
+  },
+  "dependencies": {
+    "@supabase/supabase-js": "^1.21.0"
   }
 }
