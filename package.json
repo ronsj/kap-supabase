@@ -1,6 +1,6 @@
 {
   "name": "kap-supabase",
-  "version": "1.0.0",
+  "version": "0.1.0",
   "description": "Share on Supabase",
   "main": "index.js",
   "scripts": {
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ronsj/kap-supabase.git"
+    "url": "https://github.com/ronsj/kap-supabase.git"
   },
   "keywords": [
     "kap-plugin",
@@ -20,6 +20,13 @@
     "upload",
     "share"
   ],
-  "author": "Ron San Jose <ronsj1@gmail.com>",
-  "license": "MIT"
+  "author": {
+    "name": "Ron San Jose",
+    "email": "ronsj1@gmail.com",
+    "url": "https://github.com/ronsj"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "kap-plugin-test": "^0.5.0"
+  }
 }
