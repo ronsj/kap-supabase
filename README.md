@@ -1,4 +1,4 @@
-# kap-supabase
+# kap-supabase (WIP)
 
 > [Kap](https://github.com/wulkano/kap) plugin - Share on [Supabase](https://supabase.io)
 
